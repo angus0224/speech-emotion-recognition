@@ -1,5 +1,4 @@
 # speech-emotion-recognition
-UoB dissertation
 Aim:
 To design a speech emotion recognition system for both the drivers and the passengers to improve their driving experience and car safety.
 
